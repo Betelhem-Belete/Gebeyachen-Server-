@@ -12,7 +12,7 @@ const ITEMS_SCHEMA = schema(
       type: "String",
       required: true,
       default:
-        "https://res.cloudinary.com/yeabtsega/image/upload/v1683738835/cld-sample-5.jpg",
+        "https://res.cloudinary.com/betelhem/image/upload/v1683738845/cld-sample-5.jpg",
     },
     Item_poster: {
       type: mongoose.Schema.Types.ObjectId,
