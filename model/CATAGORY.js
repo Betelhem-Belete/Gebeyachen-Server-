@@ -9,7 +9,7 @@ const catagory_schema = schema(
       type: "String",
       required: true,
       default:
-        "https://res.cloudinary.com/yeabtsega/image/upload/v1683738835/cld-sample-5.jpg",
+        "https://res.cloudinary.com/betelhem/image/upload/v1683738854/cld-sample-5.jpg",
     },
   },
   { timestamps: true }
